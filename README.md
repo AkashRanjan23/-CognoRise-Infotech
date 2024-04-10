@@ -12,8 +12,10 @@ The purpose of this project is to explore every feature in the Dataset to uncove
 ## Exploratory Data Analysis ( EDA)
 These visualizations provide valuable insights into various aspects of the Data Science field, helping to understand trends, distributions, and relationships within the dataset.
 
-![Charts-images-1](https://github.com/AkashRanjan23/-CognoRise-Infotech/assets/150953524/2613f00e-4384-4a84-ba2d-3000700f0e4c)
-![Charts-images-2](https://github.com/AkashRanjan23/-CognoRise-Infotech/assets/150953524/b306af79-6c63-4ea9-a3f2-9d23bc27aff0)
+![Charts-images-1](https://github.com/AkashRanjan23/-CognoRise-Infotech/assets/150953524/cdcb81e8-8be6-433c-9489-c36f5ae973c3)
+
+![Charts-images-2](https://github.com/AkashRanjan23/-CognoRise-Infotech/assets/150953524/6d77d3e4-3b54-42cd-9a85-15af1e9d7c20)
+
 
 
 ## Revised Summary of Insights:
